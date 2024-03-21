@@ -20,6 +20,9 @@ This repository contains data analysis and visualizations created using Google S
 =MONTH(date)               // Extract the month from a date
 ```
 
+![Formulas](formula1.png)
+![Formulas](formula2.png)
+
 ## Visualizations
 
 📈 The visualizations are organized in a separate worksheet named "Visualizations". Here are the types of visualizations included:
